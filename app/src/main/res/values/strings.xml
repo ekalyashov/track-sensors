@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TrackSensors</string>
+    <string name="start">Start</string>
+    <string name="track">Start Track</string>
+    <string name="start_track">Start Track</string>
+    <string name="stop_track">Stop Track</string>
+    <string name="gps_connected">GPS connected</string>
+    <string name="gps_disconnected">GPS disconnected</string>
+    <string name="gps_disabled">GPS disabled</string>
+    <string name="gps_enabled">GPS enabled</string>
+    <string name="gps_conn_fail">GPS connection failed, code %1$d</string>
+    <string name="service_disabled">Sensor service undefined</string>
+    <string name="service_connected">SensorService connected</string>
+    <string name="service_disconnected">SensorService disconnected</string>
+    <string name="unknown_lat">unknown</string>
+    <string name="unknown_lon">unknown</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_enable_location">Enable GPS</string>
+    <string name="action_disable_location">Disable GPS</string>
+    <string name="pit">Pit</string>
+    <string name="hill">Hill</string>
+    <string name="step_up">Step Up</string>
+    <string name="step_down">Step Down</string>
+    <string name="irregularity">Irregularity</string>
+    <string name="url_to_server">URL of external server</string>
+    <string name="save_button">Save</string>
+    <string name="action_settings">Setup application</string>
+    <string name="send_track">Send track to server</string>
+    <string name="sensor_delay">Select sensor delay value</string>
+    <string name="lbl_longitude">Longitude:</string>
+    <string name="lbl_latitude">Latitude:</string>
+    <string name="lbl_altitude">Altitude:</string>
+    <string name="lbl_speed">Speed:</string>
+    <string name="sat_in_use">[ In Use %1$d sat ]</string>
+    <string name="acc_delta">Select acceleration delta value</string>
+    <string name="stopping_track">Save Data</string>
+</resources>
